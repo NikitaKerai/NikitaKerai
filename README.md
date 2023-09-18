@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- [Firewall Application](https://github.com/NikitaKerai/ActiveDirectoryLab/tree/main) 
 - [Active Directory Home Lab](https://github.com/NikitaKerai/ActiveDirectoryLab/tree/main) 
-- [Active Directory Home Lab](https://github.com/NikitaKerai/ActiveDirectoryLab/tree/main) 
-
-<h2>👨‍💻 Programming Projects:</h2>
 
 
 <h2>📄 Certifications </h2>
