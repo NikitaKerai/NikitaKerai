@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Firewall Application](https://github.com/NikitaKerai/ActiveDirectoryLab/tree/main) 
+- [Firewall Application](https://github.com/NikitaKerai/FirewallApplication) 
 - [Active Directory Home Lab](https://github.com/NikitaKerai/ActiveDirectoryLab/tree/main) 
 
 
