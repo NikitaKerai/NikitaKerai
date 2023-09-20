@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Firewall Application](https://github.com/NikitaKerai/FirewallApplication) 
-- [Hacking Active Directory Lab](https://github.com/NikitaKerai/ActiveDirectoryLab/tree/main) 
+- [Hacking Active Directory Lab](https://github.com/NikitaKerai/HackingActiveDirectoryLab) 
 
 
 <h2>📄 Certifications </h2>
