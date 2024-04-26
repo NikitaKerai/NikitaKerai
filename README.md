@@ -3,8 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Firewall Application](https://github.com/NikitaKerai/FirewallApplication)
-- [Home Lab](https://github.com/NikitaKerai/HomeLab) 
-
+- 
 
 
 <h2>📄 Certifications </h2>
