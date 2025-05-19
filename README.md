@@ -1,9 +1,8 @@
 <h1>Hi, I'm Nikita! 
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Web Development:</h2>
 
 - [Firewall Application](https://github.com/NikitaKerai/FirewallApplication)
-- [Web Security](https://github.com/NikitaKerai/Web-Security/tree/main)
 
 
 <h2>📄 Certifications </h2>
